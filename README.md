@@ -20,6 +20,4 @@ It displays the current time in real-time (`HH:MM:SS` format) and updates every 
 - **Bootstrap 5** – Layout and centering  
 
 ---
-![Digital Clock Screenshot](<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/39aa8faa-2455-4274-a92f-553d8d60bddb" />
-)
-
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/041b7ead-926d-4d8a-851a-b6d8a7654fc7" />
