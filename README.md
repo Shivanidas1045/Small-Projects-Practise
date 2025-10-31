@@ -13,7 +13,7 @@ A collection of simple and interactive web projects built using HTML, CSS, and J
 ## Stop Watch
 <img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/a62905c2-dd3a-4d58-a929-0007cd9932bb" /><br><br>
 
-#Thanks for visting!!
+# Thanks for visting!!
 
 
 
